@@ -4,7 +4,7 @@ function addHomeIcon() {
   if (!menu || menu.querySelector('.home-favicon')) return;
 
   const link = document.createElement('a');
-  link.href = 'https://cattymod.app';
+  link.href = 'https://gl1tch-k1d2.github.io/Glitched/';
   link.target = '_self';
   link.style.display = 'flex';
   link.style.alignItems = 'center';
