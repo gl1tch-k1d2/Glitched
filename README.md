@@ -1,7 +1,7 @@
 ## Glitched
 A Scratch mod powered by Scrooch<p align="middle">
   <a href="https://scrooch-project.github.io">
-    <img alt="Scrooch Logo" src="https://avatars.githubusercontent.com/u/221273265?s=48&v=4">
+    <img alt="Scrooch Logo" src="https://avatars.githubusercontent.com/u/221273265?s=95&v=4">
 
 ## Documentation for Scrooch3
 
