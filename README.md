@@ -1,5 +1,5 @@
 ## Glitched
-A Scratch mod powered by Scrooch<p align="right">
+A Scratch mod powered by Scrooch<p align="middle">
   <a href="https://scrooch-project.github.io">
     <img alt="Scrooch Logo" src="https://avatars.githubusercontent.com/u/221273265?s=48&v=4">
 
